@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Com.locators2.Holland_barret_create_account$DDT1">
+      <class name="Case_study_calcultor.calculator_locators">
         <methods>
-          <include name="Setup"/>
-          <include name="locatorsTestingBlog"/>
+          <include name="chrome_driver"/>
         </methods>
-      </class> <!-- Com.locators2.Holland_barret_create_account$DDT1 -->
+      </class> <!-- Case_study_calcultor.calculator_locators -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
